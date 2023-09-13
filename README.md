@@ -2,6 +2,8 @@
 
 # Bright Data Analysis 
 ## Problema 1: Conversion Rates
+Much of Bright’s sales analysis measures conversion rate.  For example, of all the leads uploaded, what percentage of them convert to becoming approved customer?  That particular conversion rate can be broken down into 2 parts: 1)leads who receive a sales visit, and 2)leads with a sales visit who become approved (since every lead needs at least 1 sales visit to be approved anyway).  
+If we abbreviate “lead uploaded” as “Lead”, Sales Visit as “SV” and “approved customer” as “APP”. We can come up with these fake numbers.  5% of leads become approved, because 10% of them get Sales visits, and half of our sales visits become approved customers.
 
 ## Indice
 <!-- TABLE OF CONTENTS -->
