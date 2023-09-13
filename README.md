@@ -76,7 +76,7 @@ Así mismo, el dashboard proporciona una visión detallada de la evolución de l
 1. **Gráfico de Barras y Líneas: Leads con Visita Exitosa y Leads Aprobados**
    - Este gráfico combina una representación de barras y líneas para mostrar la tendencia de "Leads con una visita de ventas exitosa" y "Leads aprobados" a lo largo del tiempo, con el eje x representando los años y el eje y mostrando el número de leads.
 
-<div align="center"><img src="https://github.com/Cora1218/Data_Analysis_Bright/blob/main/bright.png" width=500><br>(https://github.com/Cora1218)</div>
+<div align="center"><img src="https://github.com/Cora1218/Data_Analysis_Bright/blob/main/bright.png" width=500></div>
    Esta representación visual ofrece una perspectiva clara y concisa de la efectividad de las visitas de ventas y el proceso de aprobación en la conversión de leads en clientes a lo largo de los años.
 
 ## PowerBI
