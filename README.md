@@ -65,9 +65,12 @@ Links de acceso para descarga del dashboard:
 
 - [https://drive.google.com/drive/folders/1IGkP-VnYduWkRe-B9sNfJr5OXJKnjtCZ](https://drive.google.com/file/d/1g9aweonMI-f7gBr2gmJJrLyyJu0tEUd0/view?usp=drive_link)
 
+Links de acceso para visualizar el dashboard:
+
+- https://app.powerbi.com/links/iB3mYt_ZkB?ctid=a9e17f9e-90be-41d0-84eb-6a48ebe9fec0&pbi_source=linkShare
+
 ## Desarrollador
 <div align="center">
-
  
 | [<img src="https://avatars.githubusercontent.com/u/104804355?s=400&u=7c7592e2239f0ef414c4a3c5a61920ab19c9d980&v=4" width=115><br><sub>Karla Fajardo</sub>](https://github.com/ksfajardo) |
 | :---: | 
