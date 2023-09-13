@@ -71,11 +71,13 @@ Puedes encontrar enlaces a los archivos de este proyecto (dashboard y tablas de 
 ## Conclusiones
 <div align="justify">
 A través de gráficos intuitivos y métricas clave, se tiene una visión en tiempo real de cómo los clientes potenciales se convierten en clientes aprobados, desglosando el proceso en sus elementos fundamentales: las visitas de ventas y las aprobaciones.
+<br>  
   
-# 1.  Lead Cargados (97,69%):
+1.  Lead Cargados (97,69%):
 El 97,69% de los clientes potenciales cargados indica un alto nivel de interacción y participación de la audiencia con el proceso de generación de leads. Este es un indicador positivo y sugiere una eficaz captación de clientes potenciales.
     Leads Aprobados (2,31%):
 Aunque el porcentaje de leads aprobados es relativamente bajo (2,31%), esto no es necesariamente una señal negativa. Es importante tener en cuenta que no todos los leads cargados pueden cumplir con los criterios necesarios para la aprobación. Este bajo porcentaje podría ser indicativo de una selección rigurosa y adecuada de clientes potenciales para garantizar la calidad del cliente final.
+  
 # 2.  Leads Cargados (87,13%):
 El 87,13% de leads cargados representa una participación sólida en el proceso de generación de leads. Esto indica una buena respuesta y una efectiva captación de posibles clientes interesados en los servicios o productos ofrecidos por Bright.
     Leads con Visita de Ventas Exitosa (12,87%):
