@@ -72,7 +72,7 @@ Links de acceso para visualizar el dashboard:
 ## Desarrollador
 <div align="center">
  
-| [<img src="" width=115><br><sub>Maria Martínez</sub>](https://github.com/Cora1218) |
+| [<img src="https://github.com/Cora1218/Data_Analysis_Bright/blob/main/yo.png" width=115><br><sub>Maria Martínez</sub>](https://github.com/Cora1218) |
 | :---: | 
 
 Aquí esta mi Linkedin si te quieres poner en contacto conmigo: </br>
