@@ -21,7 +21,7 @@ Problem 2
 </details>
 
 ## Problema
-<div align="center">
+<div align="justify">
 We want to add a “Panel Placing Tool” (PPT) to the existing site selection tool. This PPT’s function would be to maximize the number of vertically placed panels that you can install on any roof shape. The panels are always the same size, shape, and vertically oriented.
   
 Instructions: Explain step by step how you would fit and calculate the maximum amount of panels that can be placed on the selected area. What assumptions you would make and why. What other information would you need from the final user.
