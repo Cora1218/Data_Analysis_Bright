@@ -12,9 +12,9 @@ Conversion Rates
     <li><a href="#Objetivo">Objetivo</a></li>
     <li><a href="#Propósito">Propósito</a></li>
     <li><a href="#Metodología">Metodología</a></li>
-    <li><a href="#Archivos en Google Drive">Archivos en Google Drive</a></li>
+    <li><a href="#Archivos">Archivos en Google Drive</a></li>
     <li><a href="#Tecnologías">Tecnologías Utilizadas</a></li>
-    <li><a href="#Conclusiones relevantes">Conclusiones relevantes</a></li>
+    <li><a href="#Conclusiones">Conclusiones relevantes</a></li>
     <li><a href="#PowerBI">PowerBI</a></li>
     <li><a href="#Desarrollador">Desarrollador</a></li>
   </ol>
@@ -44,7 +44,7 @@ El proyecto fue desarrollado siguiendo los pasos a continuación:
 3. Desarrollo de dashboard con PowerBI.
 4. Proyecto en GitHub.
 
-## Archivos en Google Drive
+## Archivos
 Puedes encontrar enlaces a los archivos de este proyecto (dashboard y tablas de los datos) en la carpeta: (https://drive.google.com/drive/folders/1IGkP-VnYduWkRe-B9sNfJr5OXJKnjtCZ).
 
 ## Tecnologías
@@ -56,7 +56,7 @@ Puedes encontrar enlaces a los archivos de este proyecto (dashboard y tablas de 
 - Power Bi
 - GitHub 
 
-## Conclusiones relevantes
+## Conclusiones
 A través de gráficos intuitivos y métricas clave, se tiene una visión en tiempo real de cómo los clientes potenciales se convierten en clientes aprobados, desglosando el proceso en sus elementos fundamentales: las visitas de ventas y las aprobaciones.
 1.  Lead Cargados (97,69%):
 El 97,69% de los clientes potenciales cargados indica un alto nivel de interacción y participación de la audiencia con el proceso de generación de leads. Este es un indicador positivo y sugiere una eficaz captación de clientes potenciales.
