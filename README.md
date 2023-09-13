@@ -10,9 +10,10 @@ Conversion Rates
   <ol>
     <li><a href="#Introducción">Introducción</a></li>
     <li><a href="#Objetivo">Objetivo</a></li>
-    <li><a href="#Alcance">Alcance</a></li>
+    <li><a href="#Propósito">Propósito</a></li>
+    <li><a href="#Metodología">Metodología</a></li>
     <li><a href="#Tecnologías">Tecnologías Utilizadas</a></li>
-    <li><a href="#ETL-EDA">ETL-EDA</a></li>
+    <li><a href="#Archivos en Google Drive">Archivos en Google Drive</a></li>
     <li><a href="#Conclusiones relevantes">Conclusiones relevantes</a></li>
     <li><a href="#KPIs">KPIs</a></li>
     <li><a href="#PowerBI">PowerBI</a></li>
@@ -44,7 +45,7 @@ El proyecto fue desarrollado siguiendo los pasos a continuación:
 3. Desarrollo de dashboard con PowerBI.
 4. Proyecto en GitHub.
 
-**Archivos en Google Drive:**
+## Archivos en Google Drive
 Puedes encontrar enlaces a los archivos de este proyecto (dashboard y tablas de los datos) en la carpeta: (https://drive.google.com/drive/folders/1IGkP-VnYduWkRe-B9sNfJr5OXJKnjtCZ).
 
 ## Tecnologías
