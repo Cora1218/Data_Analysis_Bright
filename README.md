@@ -23,7 +23,7 @@ Si abreviamos "lead subido" como "Lead", Visita de ventas como "SV" y "cliente a
     <li><a href="#Archivos">Archivos en Google Drive</a></li>
     <li><a href="#Tecnologías">Tecnologías Utilizadas</a></li>
     <li><a href="#Conclusiones">Conclusiones relevantes</a></li>
-    <li><a href="#PowerBI">PowerBI</a></li>
+    <li><a href="#PowerBI">Power BI</a></li>
     <li><a href="#Desarrollador">Desarrollador</a></li>
   </ol>
 </details>
