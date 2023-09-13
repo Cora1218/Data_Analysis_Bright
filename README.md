@@ -1,4 +1,4 @@
-# Data_Analysis_Brigth
+# Data_Analysis_Bright
 Conversion Rates
 
 **Archivos en Google Drive:**
