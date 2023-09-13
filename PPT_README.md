@@ -4,11 +4,10 @@
 
 ## Problema 2
 <div align="justify">
-We want to add a “Panel Placing Tool” (PPT) to the existing site selection tool. This PPT’s function would be to maximize the number of vertically placed panels that you can install on any roof shape. The panels are always the same size, shape, and vertically oriented.
-  
-Instructions: Explain step by step how you would fit and calculate the maximum amount of panels that can be placed on the selected area. What assumptions you would make and why. What other information would you need from the final user.
+Queremos añadir una "Herramienta de colocación de paneles" (PPT) a la herramienta de selección de emplazamientos existente. La función de esta PPT sería maximizar el número de paneles colocados verticalmente que se pueden instalar en cualquier forma de tejado. Los paneles tienen siempre el mismo tamaño, forma y orientación vertical.
+Instrucciones: Explica paso a paso cómo encajarías y calcularías la cantidad máxima de paneles que se pueden colocar en el área seleccionada. Qué suposiciones harías y por qué. Qué otra información necesitarías del usuario final.
 
-Example: The input you have is a figure selected like the ones below.
+Ejemplo: La entrada que tienes es una figura seleccionada como las de abajo.
 </div>
 <div align="center">
 <img src="https://github.com/Cora1218/Data_Analysis_Bright/blob/main/shapes.png" width=300> 
