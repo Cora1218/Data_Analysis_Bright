@@ -1,6 +1,9 @@
 ![header](https://github.com/Cora1218/Data_Analysis_Bright/blob/main/logo4.png) 
 
+<div align="center">
+  
 # Bright Data Analysis 
+</div>
 
 ## Problema 2
 <div align="justify">
