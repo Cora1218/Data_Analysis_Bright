@@ -2,7 +2,7 @@
 
 <div align="center">
 # Bright Data Analysis 
-</div>div>
+</div>
 
 ## Problema 1: Tasas de conversión
 Gran parte del análisis de ventas de Bright mide la tasa de conversión.  Por ejemplo, de todos los clientes potenciales cargados, ¿qué porcentaje de ellos se convierte en cliente aprobado?  Esa tasa de conversión concreta puede desglosarse en 2 partes: 1) clientes potenciales que reciben una visita de ventas y 2) clientes potenciales con una visita de ventas que se aprueban (ya que, de todos modos, cada cliente potencial necesita al menos una visita de ventas para ser aprobado).  
