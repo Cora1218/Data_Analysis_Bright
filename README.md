@@ -29,15 +29,19 @@ Si abreviamos "lead subido" como "Lead", Visita de ventas como "SV" y "cliente a
 </details>
 
 ## Introducción
+<div align="justify">
 En este proyecto, he explorado con profundidad la tasa de conversión, un pilar fundamental en el análisis de ventas. En Bright, nos enfrentamos al dilema: ¿qué proporción de nuestros clientes potenciales, una vez introducidos en el proceso, culminan siendo aprobados? Esta tasa de conversión específica se descompone en dos elementos esenciales: 1) los clientes potenciales que reciben una visita de ventas y, 2) aquellos que, tras una visita de ventas, alcanzan la aprobación necesaria.
 
 Al emprender este proyecto, mi objetivo principal fue profundizar en la esencia misma de esta tasa de conversión. A través de análisis detallados y minuciosos, he buscado los factores que influyen en este proceso vital para cualquier estrategia de ventas exitosa. A medida que avancemos, les invito a adentrarse en este viaje de descubrimiento y comprensión de cómo optimizar y mejorar nuestra tasa de conversión para alcanzar el éxito deseado.
+</div>
 
 ## Objetivo
 Diseñar un dashboard interactivo que proporcione una visualización clara y detallada de la tasa de conversión en Bright. 
 
 ## Propósito
+<div align="justify">
 El dashboard tiene como propósito permitir a los equipos de ventas y marketing tener acceso a información crucial de manera rápida y efectiva. Esto les permitirá tomar decisiones informadas, ajustar estrategias y optimizar los esfuerzos para maximizar la tasa de conversión y, en última instancia, el éxito comercial de Bright.
+</div>
 
 ## Metodología
 El proyecto fue desarrollado siguiendo los pasos a continuación:
@@ -65,6 +69,7 @@ Puedes encontrar enlaces a los archivos de este proyecto (dashboard y tablas de 
 - GitHub 
 
 ## Conclusiones
+<div align="justify">
 A través de gráficos intuitivos y métricas clave, se tiene una visión en tiempo real de cómo los clientes potenciales se convierten en clientes aprobados, desglosando el proceso en sus elementos fundamentales: las visitas de ventas y las aprobaciones.
 1.  Lead Cargados (97,69%):
 El 97,69% de los clientes potenciales cargados indica un alto nivel de interacción y participación de la audiencia con el proceso de generación de leads. Este es un indicador positivo y sugiere una eficaz captación de clientes potenciales.
@@ -86,6 +91,7 @@ Así mismo, el dashboard proporciona una visión detallada de la evolución de l
 
 <div align="center"><img src="https://github.com/Cora1218/Data_Analysis_Bright/blob/main/bright.png" width=500></div>
    Esta representación visual ofrece una perspectiva clara y concisa de la efectividad de las visitas de ventas y el proceso de aprobación en la conversión de leads en clientes a lo largo de los años.
+</div>
 
 ## PowerBI
 Links de acceso para descarga del dashboard:
