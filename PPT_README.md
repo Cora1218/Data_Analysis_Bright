@@ -31,4 +31,30 @@ Example: The input you have is a figure selected like the ones below.
 <div align="center">
 <img src="https://github.com/Cora1218/Data_Analysis_Bright/blob/main/shapes.png" width=300> 
 </div>
+<div align="justify">
+Paso 1: Comprende las Características del Panel y el Techo:
+
+Analiza el tamaño, forma y orientación de los paneles solares.
+Estudia los diferentes tipos de techos disponibles.
+Paso 2: Establece Suposiciones y Criterios de Eficiencia:
+
+Define las dimensiones y requisitos de espacio entre paneles.
+Considera la eficiencia de conversión de energía solar en electricidad.
+Paso 3: Desarrolla un Proceso de Colocación:
+
+Crea un procedimiento para colocar paneles en el techo de manera eficiente.
+Considera casos especiales, como techos con formas inusuales.
+Paso 4: Interacción con el Usuario:
+
+Solicita información relevante del usuario, como dimensiones del techo y ubicación geográfica.
+Proporciona resultados en tiempo real, mostrando el número máximo de paneles y la energía producida.
+Paso 5: Pruebas y Validación:
+
+Realiza pruebas exhaustivas con diferentes configuraciones de techos.
+Recopila feedback de los usuarios para mejoras.
+Este enfoque te permitirá desarrollar una herramienta efectiva que maximice la colocación de paneles solares en una variedad de techos.
+</div>
+
+
+
 
