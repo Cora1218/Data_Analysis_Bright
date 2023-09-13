@@ -1,7 +1,7 @@
 ![header](https://github.com/Cora1218/Data_Analysis_Bright/blob/main/logo4.png) 
 
 # Bright Data Analysis 
-## Problema 1: Conversion Rates
+## Problema 1: Tasas de conversión
 Gran parte del análisis de ventas de Bright mide la tasa de conversión.  Por ejemplo, de todos los clientes potenciales cargados, ¿qué porcentaje de ellos se convierte en cliente aprobado?  Esa tasa de conversión concreta puede desglosarse en 2 partes: 1) clientes potenciales que reciben una visita de ventas y 2) clientes potenciales con una visita de ventas que se aprueban (ya que, de todos modos, cada cliente potencial necesita al menos una visita de ventas para ser aprobado).  
 Si abreviamos "lead subido" como "Lead", Visita de ventas como "SV" y "cliente aprobado" como "APP". Podemos llegar a estas cifras falsas  El 5% de los clientes potenciales se aprueban, porque el 10% de ellos reciben visitas de ventas, y la mitad de nuestras visitas de ventas se convierten en clientes aprobados.
 
