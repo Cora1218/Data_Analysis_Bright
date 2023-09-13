@@ -35,6 +35,8 @@ Example: The input you have is a figure selected like the ones below.
 ## Paso 5: Pruebas y Validación:
  - Realizar pruebas exhaustivas con diferentes configuraciones de techos.
  - Recopilar feedback de los usuarios para mejoras.
+
+Este enfoque está diseñado para garantizar una implementación eficiente y efectiva del PPT, maximizando la colocación de paneles solares en una variedad de techos.
 </div>
 
 
