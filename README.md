@@ -63,7 +63,7 @@ Puedes encontrar enlaces a los archivos de este proyecto (dashboard y tablas de 
 ## PowerBI
 Links de acceso para descarga del dashboard:
 
-- https://drive.google.com/drive/folders/1IGkP-VnYduWkRe-B9sNfJr5OXJKnjtCZ
+- [https://drive.google.com/drive/folders/1IGkP-VnYduWkRe-B9sNfJr5OXJKnjtCZ](https://drive.google.com/file/d/1g9aweonMI-f7gBr2gmJJrLyyJu0tEUd0/view?usp=drive_link)
 
 ## Desarrollador
 <div align="center">
