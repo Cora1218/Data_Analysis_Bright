@@ -29,7 +29,6 @@ Instructions: Explain step by step how you would fit and calculate the maximum a
 Example: The input you have is a figure selected like the ones below.
 </div>
 <div align="center">
-| [<img src="https://github.com/Cora1218/Data_Analysis_Bright/blob/main/shapes.png" width=115>]|
-| :---: | 
+<img src="https://github.com/Cora1218/Data_Analysis_Bright/blob/main/shapes.png" width=300> 
 </div>
 
