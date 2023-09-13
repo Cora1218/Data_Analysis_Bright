@@ -1,9 +1,8 @@
 ![header](https://github.com/Cora1218/Data_Analysis_Bright/blob/main/logo4.png) 
 
 # Bright Data Analysis 
-Problem 2
 
-## Problema
+## Problema 2
 <div align="justify">
 We want to add a “Panel Placing Tool” (PPT) to the existing site selection tool. This PPT’s function would be to maximize the number of vertically placed panels that you can install on any roof shape. The panels are always the same size, shape, and vertically oriented.
   
