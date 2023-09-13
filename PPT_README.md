@@ -27,6 +27,9 @@ We want to add a “Panel Placing Tool” (PPT) to the existing site selection t
 Instructions: Explain step by step how you would fit and calculate the maximum amount of panels that can be placed on the selected area. What assumptions you would make and why. What other information would you need from the final user.
 
 Example: The input you have is a figure selected like the ones below.
-
+</div>
+<div align="center">
+| [<img src="https://github.com/Cora1218/Data_Analysis_Bright/blob/main/shapes.png" width=115>]|
+| :---: | 
 </div>
 
