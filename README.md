@@ -87,6 +87,8 @@ Con un 12,87% de leads que culminan en una visita de ventas exitosa, se evidenci
 Un impresionante 86,21% de leads que culminan en una visita de ventas exitosa es un indicador positivo. Esto sugiere una alta eficacia en la etapa de ventas y una capacidad destacada para convertir leads en oportunidades tangibles.
     Leads Aprobados (13,79%):
 Aunque el porcentaje de leads aprobados es menor (13,79%), sigue siendo una cifra significativa. Esto indica un proceso de selección riguroso pero efectivo para asegurarse de que solo los leads más prometedores sean aprobados.
+
+En resumen, estos porcentajes proporcionan una base valiosa para la toma de decisiones estratégicas. Al abordar las áreas de oportunidad y capitalizar los puntos fuertes, podemos mejorar la eficacia del proceso de conversión y, en última instancia, el éxito de Bright.
 </div>
 
 Así mismo, el dashboard proporciona una visión detallada de la evolución de leads y conversiones en Bright a lo largo de los últimos años. 
