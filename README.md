@@ -72,17 +72,12 @@ Links de acceso para visualizar el dashboard:
 ## Desarrollador
 <div align="center">
  
-| [<img src="https://avatars.githubusercontent.com/u/104804355?s=400&u=7c7592e2239f0ef414c4a3c5a61920ab19c9d980&v=4" width=115><br><sub>Karla Fajardo</sub>](https://github.com/ksfajardo) |
+| [<img src="" width=115><br><sub>Maria Martínez</sub>](https://github.com/Cora1218) |
 | :---: | 
 
 Aquí esta mi Linkedin si te quieres poner en contacto conmigo: </br>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karla-fajardo-3b3020175/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mar%C3%ADa-guadalupe-mart%C3%ADnez-1a489173/)
 
 </div>
 
-<div align="center">
-  
-<img src="https://github.com/ksfajardo/PI02_DA/blob/main/hearttaylor.gif" width="200" height="250">
-
-</div>
