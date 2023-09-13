@@ -12,10 +12,9 @@ Conversion Rates
     <li><a href="#Objetivo">Objetivo</a></li>
     <li><a href="#Propósito">Propósito</a></li>
     <li><a href="#Metodología">Metodología</a></li>
-    <li><a href="#Archivos en GoogleDrive">Archivos en Google Drive</a></li>
+    <li><a href="#Archivos en Google Drive">Archivos en Google Drive</a></li>
     <li><a href="#Tecnologías">Tecnologías Utilizadas</a></li>
     <li><a href="#Conclusiones relevantes">Conclusiones relevantes</a></li>
-    <li><a href="#KPIs">KPIs</a></li>
     <li><a href="#PowerBI">PowerBI</a></li>
     <li><a href="#Desarrollador">Desarrollador</a></li>
   </ol>
@@ -61,26 +60,10 @@ Puedes encontrar enlaces a los archivos de este proyecto (dashboard y tablas de 
 1.  A través de gráficos intuitivos y métricas clave, se tiene una visión en tiempo real de cómo los clientes potenciales se convierten en clientes aprobados, desglosando el proceso en sus elementos fundamentales: las visitas de ventas y las aprobaciones.
 2.  
 
-## KPIs
-1. `KPI 1`: Tasa de mortalidad 
-- Métrica: Número de muertes a bordo/Número total de personal a bordo 
-- Objetivo: Reducción del 5% anualmente
-2. `KPI 2`: Tasa de fatalidades por accidentes
-- Métrica: Número de muertes a bordo/Número total de accidentes
-- Objetivo: Reducción de un 10% anualmente
-3. `KPI 3`: Tasa de accidentes fatales
-- Métrica: Número de accidentes donde no hubo sobrevivientes a bordo/Número total de accidentes
-- Objetivo: Tasa de accidentes fatales por debajo del 50% anualmente
-4. `KPI 4`: Tasa de accidentes sin fatalidades
-- Métrica: Número de accidentes sin fatalidades a bordo/Número total de accidentes
-- Objetivo: Aumento de un 10% en un periodo de 3 años
-
 ## PowerBI
 Links de acceso para descarga del dashboard:
 
-- Link MEGA: https://mega.nz/file/PZVgkKiL#cmJWWgZrk0rN2Vu08YaDEJjrRTHPN6auinmSsZaaBww
-
-- Link Google Drive: https://drive.google.com/file/d/1YzWFc2t1ZZUCxJbnLFMK2_dkq3-X9tEq/view?usp=sharing
+- https://drive.google.com/drive/folders/1IGkP-VnYduWkRe-B9sNfJr5OXJKnjtCZ
 
 ## Desarrollador
 <div align="center">
