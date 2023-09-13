@@ -28,10 +28,21 @@ Al emprender este proyecto, mi objetivo principal fue profundizar en la esencia 
 ## Objetivo
 Diseñar un dashboard interactivo que proporcione una visualización clara y detallada de la tasa de conversión en Bright. 
 
-## Alcance
+## Propósito
+El dashboard tiene como propósito permitir a los equipos de ventas y marketing tener acceso a información crucial de manera rápida y efectiva. Esto les permitirá tomar decisiones informadas, ajustar estrategias y optimizar los esfuerzos para maximizar la tasa de conversión y, en última instancia, el éxito comercial de Bright.
+
+## Metodología
 El proyecto fue desarrollado siguiendo los pasos a continuación:
-1. ETL (Extracción, Transformación y Carga de Datos)
-2. Desarrollo de dashboard con PowerBI
+1. Análisis y Contexto del proyecto.
+2. ETL (Extracción, Transformación y Carga de Datos) [ETL Link](https://github.com/Cora1218/Data_Analysis_Bright/blob/main/bright.ipynb).
+   - Carga de datos del archivo Bright.sqlite a dataframe.
+   - Transformación de datos paso a paso y detección de anomalías.
+   - Exportación de datos a archivos con formato csv.
+   - Diagrama de entidad y relación.
+   - Análisis de gráficos apropiados para el dashboard.
+   - Generación de conclusiones.
+3. Desarrollo de dashboard con PowerBI.
+4. Proyecto en GitHub.
 
 **Archivos en Google Drive:**
 Puedes encontrar enlaces a los archivos de este proyecto (dashboard y tablas de los datos) en la carpeta: (https://drive.google.com/drive/folders/1IGkP-VnYduWkRe-B9sNfJr5OXJKnjtCZ).
@@ -43,25 +54,11 @@ Puedes encontrar enlaces a los archivos de este proyecto (dashboard y tablas de 
 - Numpy
 - MatplotLib
 - Power Bi
-- GitHub
-
-## ETL-EDA
-1. Carga de datos del archivo Bright.sqlite a dataframe.
-2. Transformación de datos paso a paso y detección de anomalías.
-3. Exportación de datos a archivos con formato csv.
-4. Diagrama de entidad y relación.
-5. Análisis de gráficos apropiados para el dashboard.
-6. Generación de conclusiones.
-
-El desarrollo de este proceso se puede ver aquí: [ETL Link](https://github.com/Cora1218/Data_Analysis_Bright/blob/main/bright.ipynb)
+- GitHub 
 
 ## Conclusiones relevantes
-1. La mayor concentración de accidentes aéreos se encuentra entre los años 1940 y 2000, con el máximo en 1946 donde hubo un total de 87 accidentes. Esto se puede deber al hecho de que alrededor de 1950 la aviación comercial empezó a tener un auge en popularidad, años en los que también coincide la producción de las primeras generación de jets, las cuales tenían una alta tasa de accidentalidad e inadecuadas práticas de mantenimiento. 
-2. La mayor cantidad de accidentes se ha dado en la ruta de Moscú, Rusia, lo cual concuerda con los datos de los operadores, dentro de los cuales, la aerolínea rusa Aeroflot tiene el mayor número de accidentes y mayor número de fatalidades. Esto apoya a los registros históricos, que constatan que Aeroflot ha tenido cinco veces más accidentes que cualquier otra aerolínea. 
-3. Los accidentes aéreos militares superaron a los civiles en los tiempos de las guerras mundiales, lo cual tiene sentido ya que las fuerzas aéreas, como la Luftwaffe, tuvieron una incidencia significativa en estos conflictos. 
-4. El modelo Douglas DC-3 que más ha tenido accidentes historicamente. Este modelo tuvo un alto impacto en la industria aérea durante las decadas de 1930, 1940 y la segunda guerra mundial (se vendió mucho). Estos aviones fueron acogidos tanto por industría aérea civíl, como por la militar. Se adaptaron varias versiones dependiendo el uso. Esto concuerda con las gráficas analizadas anteriormente, donde se pudo evidenciar una alta incidencia de accidentes después de 1940.
-5. No suele haber muchas muertes en tierra a causa de accidentes aéreos, en comparación a las muertes de las personas a bordo. Sin embargo, se evidenció un pico máximo de fatalidades en tierra en el 2001, superando con creces a las muertes de personas a bordo, el cual corresponde al ataque terrorista al World Trade Center (9/11) en la ciudad de Nueva York, lo cual le da total sentido a este outlier. 
-6. El año con mayor número de fatalidades parece ser 1972, lo cual tiene sentido porque en 1972 ya estaba operando la nueva generación de jets, que hasta el día de hoy siguen en uso y en producción, como el Boeing 737. Estos aviones son mucho más grandes que los de la primera generación y admiten muchos más pasajeros, por ende, en el caso de accidentes, lo más probable es que haya una mayor tasa de mortalidad, aunque no necesariamente haya una mayor tasa de accidentalidad.
+1.  A través de gráficos intuitivos y métricas clave, se tiene una visión en tiempo real de cómo los clientes potenciales se convierten en clientes aprobados, desglosando el proceso en sus elementos fundamentales: las visitas de ventas y las aprobaciones.
+2.  
 
 ## KPIs
 1. `KPI 1`: Tasa de mortalidad 
