@@ -71,21 +71,21 @@ Puedes encontrar enlaces a los archivos de este proyecto (dashboard y tablas de 
 ## Conclusiones
 <div align="justify">
 A través de gráficos intuitivos y métricas clave, se tiene una visión en tiempo real de cómo los clientes potenciales se convierten en clientes aprobados, desglosando el proceso en sus elementos fundamentales: las visitas de ventas y las aprobaciones.
-1.  Lead Cargados (97,69%):
+# 1.  Lead Cargados (97,69%):
 El 97,69% de los clientes potenciales cargados indica un alto nivel de interacción y participación de la audiencia con el proceso de generación de leads. Este es un indicador positivo y sugiere una eficaz captación de clientes potenciales.
     Leads Aprobados (2,31%):
 Aunque el porcentaje de leads aprobados es relativamente bajo (2,31%), esto no es necesariamente una señal negativa. Es importante tener en cuenta que no todos los leads cargados pueden cumplir con los criterios necesarios para la aprobación. Este bajo porcentaje podría ser indicativo de una selección rigurosa y adecuada de clientes potenciales para garantizar la calidad del cliente final.
-2.  Leads Cargados (87,13%):
+# 2.  Leads Cargados (87,13%):
 El 87,13% de leads cargados representa una participación sólida en el proceso de generación de leads. Esto indica una buena respuesta y una efectiva captación de posibles clientes interesados en los servicios o productos ofrecidos por Bright.
     Leads con Visita de Ventas Exitosa (12,87%):
 Con un 12,87% de leads que culminan en una visita de ventas exitosa, se evidencia un flujo efectivo de prospectos hacia el siguiente paso del proceso. Esto señala una adecuada transición de la fase de adquisición a la fase de ventas.
-3.   Leads con una Visita de Ventas Exitosa (86,21%):
+# 3.   Leads con una Visita de Ventas Exitosa (86,21%):
 Un impresionante 86,21% de leads que culminan en una visita de ventas exitosa es un indicador positivo. Esto sugiere una alta eficacia en la etapa de ventas y una capacidad destacada para convertir leads en oportunidades tangibles.
     Leads Aprobados (13,79%):
 Aunque el porcentaje de leads aprobados es menor (13,79%), sigue siendo una cifra significativa. Esto indica un proceso de selección riguroso pero efectivo para asegurarse de que solo los leads más prometedores sean aprobados.
 </div>
 
-Así mismo, el dashboard proporciona una visión detallada de la evolución de leads y conversiones en Bright a lo largo de los últimos años. 
+# Así mismo, el dashboard proporciona una visión detallada de la evolución de leads y conversiones en Bright a lo largo de los últimos años. 
 
 <div align="justify">
 - Este gráfico combina una representación de barras y líneas para mostrar la tendencia de "Leads con una visita de ventas exitosa" y "Leads aprobados" a lo largo del tiempo, con el eje x representando los años y el eje y mostrando el número de leads.
