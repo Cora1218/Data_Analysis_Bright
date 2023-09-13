@@ -1,17 +1,13 @@
-# Data Analysis Bright
+![header](https://github.com/Cora1218/Data_Analysis_Bright/blob/main/logo4.png) 
+
+# Bright Data Analysis 
 Conversion Rates
-
-**Archivos en Google Drive:**
-Puedes encontrar enlaces a los archivos relacionados con este proyecto en la carpeta: (https://drive.google.com/drive/folders/1IGkP-VnYduWkRe-B9sNfJr5OXJKnjtCZ).
-
-![header](https://github.com/Cora1218/Data_Analysis_Bright/logo4.png)
 
 ## Indice
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Tabla de contenido</summary>
   <ol>
-    <li><a href="#Indice">Índice</a></li>
     <li><a href="#Introducción">Introducción</a></li>
     <li><a href="#Objetivo">Objetivo</a></li>
     <li><a href="#Alcance">Alcance</a></li>
@@ -25,54 +21,39 @@ Puedes encontrar enlaces a los archivos relacionados con este proyecto en la car
 </details>
 
 ## Introducción
-Este es mi proyecto de Data Analytics para la carrera de Data Science en la academia Soy Henry. 
+En este proyecto, he explorado con profundidad la tasa de conversión, un pilar fundamental en el análisis de ventas. En Bright, nos enfrentamos al dilema: ¿qué proporción de nuestros clientes potenciales, una vez introducidos en el proceso, culminan siendo aprobados? Esta tasa de conversión específica se descompone en dos elementos esenciales: 1) los clientes potenciales que reciben una visita de ventas y, 2) aquellos que, tras una visita de ventas, alcanzan la aprobación necesaria.
 
-Este proyecto propone hacer el análisis de una base de datos histórica de accidentes aéreos para identificar patrones y tendencias en la seguridad de la aviación civil. 
+Al emprender este proyecto, mi objetivo principal fue profundizar en la esencia misma de esta tasa de conversión. A través de análisis detallados y minuciosos, he buscado los factores que influyen en este proceso vital para cualquier estrategia de ventas exitosa. A medida que avancemos, les invito a adentrarse en este viaje de descubrimiento y comprensión de cómo optimizar y mejorar nuestra tasa de conversión para alcanzar el éxito deseado.
 
 ## Objetivo
-El objetivo principal es diseñar un dashboard interactivo que permita explorar los datos y obtener información sobre accidentes, incluyendo la visualización de 4 KPIs (1 solicitado, 3 propuestos). 
-
-El proyecto busca alcanzar los siguientes objetivos especificos:
-- Hacer un análisis exploratorio de datos para poder identificar los diferentes patrones y tendencias. 
-- Sacar conclusiones a partir del ánalisis hecho.
-- Crear KPIs relevantes para la seguridad de la aviación civil.
+Diseñar un dashboard interactivo que proporcione una visualización clara y detallada de la tasa de conversión en Bright. 
 
 ## Alcance
 El proyecto fue desarrollado siguiendo los pasos a continuación:
-1. Pre-procesamiento de datos
-2. Análisis exploratorio de datos (EDA) [ETL-EDA Link](https://github.com/ksfajardo/PI02_DA/blob/main/ETL-EDA.ipynb)
-3. Desarrollo de dashboard con PowerBI
+1. ETL (Extracción, Transformación y Carga de Datos)
+2. Desarrollo de dashboard con PowerBI
 
-![proceso](https://github.com/ksfajardo/PI02_DA/blob/main/Proceso.png)
-
-- Link de descarga dashboard MEGA: https://mega.nz/file/PZVgkKiL#cmJWWgZrk0rN2Vu08YaDEJjrRTHPN6auinmSsZaaBww
-    
-- Link de descarga dashboard Google Drive: https://drive.google.com/file/d/1YzWFc2t1ZZUCxJbnLFMK2_dkq3-X9tEq/view?usp=sharing
+**Archivos en Google Drive:**
+Puedes encontrar enlaces a los archivos de este proyecto (dashboard y tablas de los datos) en la carpeta: (https://drive.google.com/drive/folders/1IGkP-VnYduWkRe-B9sNfJr5OXJKnjtCZ).
 
 ## Tecnologías
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Mega.nz](https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-- seaborn
-- ydata_profiling
+- Python
+- VSC
+- Pandas
+- Numpy
+- MatplotLib
+- Power Bi
+- GitHub
 
 ## ETL-EDA
-1. Transformación de datos paso a paso. 
-2. Exportación de datos a formato csv.
-3. Uso de ydata_profiling, matplotlib y seaborn para la generación de gráficos.
-4. Análisis de gráficos, relación entre datos y detección de anomalías.
-5. Generación de conclusiones.
-6. Generación de KPIs de acuerdo al análisis.
+1. Carga de datos del archivo Bright.sqlite a dataframe.
+2. Transformación de datos paso a paso y detección de anomalías.
+3. Exportación de datos a archivos con formato csv.
+4. Diagrama de entidad y relación.
+5. Análisis de gráficos apropiados para el dashboard.
+6. Generación de conclusiones.
 
-El desarrollo de este proceso se puede ver aquí: [ETL-EDA Link](https://github.com/ksfajardo/PI02_DA/blob/main/ETL-EDA.ipynb)
+El desarrollo de este proceso se puede ver aquí: [ETL Link](https://github.com/Cora1218/Data_Analysis_Bright/blob/main/bright.ipynb)
 
 ## Conclusiones relevantes
 1. La mayor concentración de accidentes aéreos se encuentra entre los años 1940 y 2000, con el máximo en 1946 donde hubo un total de 87 accidentes. Esto se puede deber al hecho de que alrededor de 1950 la aviación comercial empezó a tener un auge en popularidad, años en los que también coincide la producción de las primeras generación de jets, las cuales tenían una alta tasa de accidentalidad e inadecuadas práticas de mantenimiento. 
@@ -115,17 +96,6 @@ Aquí esta mi Linkedin si te quieres poner en contacto conmigo: </br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karla-fajardo-3b3020175/)
 
 </div>
-
-## Agradecimientos
-Aquí nombraré a algunas personas a las que quiero agradecer por el apoyo incondicional que me dieron durante el desarrollo de este proyecto:
-
-Primero, a William por apoyarme durante todo este proceso.
-
-Segundo, a Taylor Swift por ser mi terapeuta y compañía, especialmente en los momentos díficiles y mis trasnochadas.
-
-Tercero, a mis compañeros de la Cohorte 10, los tqm.
-
-Por último, pero no menos importante, a Ariel, Mirta, Ángel, Nelson y Juan David, gracias por todo su apoyo, por apreciar mis opiniones y dejar que me disperse un rato por las noches mientras les ayudo. 
 
 <div align="center">
   
