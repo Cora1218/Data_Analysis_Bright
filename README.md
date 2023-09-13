@@ -2,7 +2,7 @@
 
 <div align="center">
   
-## Bright Data Analysis 
+# Bright Data Analysis 
 </div>
 
 ## Problema 1: Tasas de conversión
