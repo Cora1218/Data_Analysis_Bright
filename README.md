@@ -86,9 +86,10 @@ Aunque el porcentaje de leads aprobados es menor (13,79%), sigue siendo una cifr
 </div>
 Así mismo, el dashboard proporciona una visión detallada de la evolución de leads y conversiones en Bright a lo largo de los últimos años. 
 
-1. **Gráfico de Barras y Líneas: Leads con Visita Exitosa y Leads Aprobados**
-   - Este gráfico combina una representación de barras y líneas para mostrar la tendencia de "Leads con una visita de ventas exitosa" y "Leads aprobados" a lo largo del tiempo, con el eje x representando los años y el eje y mostrando el número de leads.
-
+<div align="left">
+**Gráfico de Barras y Líneas: Leads con Visita Exitosa y Leads Aprobados**
+- Este gráfico combina una representación de barras y líneas para mostrar la tendencia de "Leads con una visita de ventas exitosa" y "Leads aprobados" a lo largo del tiempo, con el eje x representando los años y el eje y mostrando el número de leads.
+</div>
 <div align="center"><img src="https://github.com/Cora1218/Data_Analysis_Bright/blob/main/bright.png" width=500></div>
 
 <div align="center">
