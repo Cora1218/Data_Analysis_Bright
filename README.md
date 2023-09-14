@@ -101,7 +101,7 @@ Así mismo, el dashboard proporciona una visión detallada de la evolución de l
 Este gráfico combina una representación de barras y líneas para mostrar la tendencia de "Leads con una visita de ventas exitosa" y "Leads aprobados" a lo largo del tiempo, con el eje x representando los años y el eje y mostrando el número de leads.
 </div>
 <br>
-<div align="center"><img src="https://github.com/Cora1218/Data_Analysis_Bright/blob/main/bright.png" width=500></div>
+<div align="center"><img src="https://github.com/Cora1218/Data_Analysis_Bright/blob/main/imgs/bright.png" width=500></div>
 </br>
 <div align="left">
    Esta representación visual ofrece una perspectiva clara y concisa de la efectividad de las visitas de ventas y el proceso de aprobación en la conversión de leads en clientes a lo largo de los años.
@@ -119,7 +119,7 @@ Links de acceso para visualizar el dashboard:
 ## Desarrollador
 <div align="center">
  
-| [<img src="https://github.com/Cora1218/Data_Analysis_Bright/blob/main/yo.png" width=115><br><sub>Maria Martínez</sub>](https://github.com/Cora1218) |
+| [<img src="https://github.com/Cora1218/Data_Analysis_Bright/blob/main/imgs/yo.png" width=115><br><sub>Maria Martínez</sub>](https://github.com/Cora1218) |
 | :---: | 
 
 Dejo mi Linkedin para ponerte en contacto conmigo: </br>
