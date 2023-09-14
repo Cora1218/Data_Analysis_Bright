@@ -70,11 +70,13 @@ Puedes encontrar enlaces a los archivos de este proyecto (dashboard y tablas de 
 
 ## Conclusiones
 <div align="justify">
-A través de gráficos intuitivos y métricas clave, se tiene una visión en tiempo real de cómo los clientes potenciales se convierten en clientes aprobados, desglosando el proceso en sus elementos fundamentales: las visitas de ventas y las aprobaciones.
-<br>
-  
-<div align="center"><img src="https://github.com/Cora1218/Data_Analysis_Bright/blob/main/imgs/dashboard.png" width=800 height="500"></div>
+A través de gráficos intuitivos y métricas clave, se tiene una visión en tiempo real de cómo los clientes potenciales se convierten en clientes aprobados, desglosando el proceso en sus elementos fundamentales: las visitas de ventas y las aprobaciones. </div>
 
+<br>
+<div align="center"><img src="https://github.com/Cora1218/Data_Analysis_Bright/blob/main/imgs/dashboard.png" width=800 height="500"></div>
+</br>
+<div align="justify">
+  
 1.  Lead Cargados (97,69%):
 El 97,69% de los clientes potenciales cargados indica un alto nivel de interacción y participación de la audiencia con el proceso de generación de leads. Este es un indicador positivo y sugiere una eficaz captación de clientes potenciales.
     Leads Aprobados (2,31%):
@@ -85,7 +87,7 @@ El 87,13% de leads cargados representa una participación sólida en el proceso 
     Leads con Visita de Ventas Exitosa (12,87%):
 Con un 12,87% de leads que culminan en una visita de ventas exitosa, se evidencia un flujo efectivo de prospectos hacia el siguiente paso del proceso. Esto señala una adecuada transición de la fase de adquisición a la fase de ventas.
 
-4.   Leads con una Visita de Ventas Exitosa (86,21%):
+3.   Leads con una Visita de Ventas Exitosa (86,21%):
 Un impresionante 86,21% de leads que culminan en una visita de ventas exitosa es un indicador positivo. Esto sugiere una alta eficacia en la etapa de ventas y una capacidad destacada para convertir leads en oportunidades tangibles.
     Leads Aprobados (13,79%):
 Aunque el porcentaje de leads aprobados es menor (13,79%), sigue siendo una cifra significativa. Esto indica un proceso de selección riguroso pero efectivo para asegurarse de que solo los leads más prometedores sean aprobados.
