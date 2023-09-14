@@ -1,4 +1,4 @@
-![header](https://github.com/Cora1218/Data_Analysis_Bright/blob/main/logo4.png) 
+![header](https://github.com/Cora1218/Data_Analysis_Bright/blob/main/imgs/logo4.png) 
 
 <div align="center">
   
@@ -13,7 +13,7 @@ Instrucciones: Explica paso a paso cómo encajarías y calcularías la cantidad 
 Ejemplo: La entrada que tienes es una figura seleccionada como las de abajo.
 </div>
 <div align="center">
-<img src="https://github.com/Cora1218/Data_Analysis_Bright/blob/main/shapes.png" width=300> 
+<img src="https://github.com/Cora1218/Data_Analysis_Bright/blob/main/imgs/shapes.png" width=300> 
 </div>
 <div align="justify">
   
