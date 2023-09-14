@@ -17,23 +17,23 @@ Ejemplo: La entrada que tienes es una figura seleccionada como las de abajo.
 </div>
 <div align="justify">
   
-## Paso 1: Comprender las Características del Panel y el Techo:
+## Paso 1: Comprender las Características del Panel y el Techo
 - Analizar el tamaño, forma y orientación de los paneles solares.
 - Estudiar los diferentes tipos de techos disponibles.
   
-## Paso 2: Establecer Suposiciones y Criterios de Eficiencia:
+## Paso 2: Establecer Suposiciones y Criterios de Eficiencia
  - Definir las dimensiones y requisitos de espacio entre paneles.
  - Considerar la eficiencia de conversión de energía solar en electricidad.
   
-## Paso 3: Desarrollar un Proceso de Colocación:
+## Paso 3: Desarrollar un Proceso de Colocación
  - Crear un procedimiento para colocar paneles en el techo de manera eficiente.
  - Considerar casos especiales, como techos con formas inusuales.
   
-## Paso 4: Interacción con el Usuario:
+## Paso 4: Interacción con el Usuario
  - Solicitar información relevante del usuario, como dimensiones del techo y ubicación geográfica.
  - Proporcionar resultados en tiempo real, mostrando el número máximo de paneles y la energía producida.
 
-## Paso 5: Pruebas y Validación:
+## Paso 5: Pruebas y Validación
  - Realizar pruebas exhaustivas con diferentes configuraciones de techos.
  - Recopilar feedback de los usuarios para mejoras.
 
