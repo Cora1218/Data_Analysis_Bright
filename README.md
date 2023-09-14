@@ -1,4 +1,4 @@
-![header](https://github.com/Cora1218/Data_Analysis_Bright/blob/main/logo4.png) 
+![header](https://github.com/Cora1218/Data_Analysis_Bright/blob/main/imgs/logo4.png) 
 
 <div align="center">
   
