@@ -71,10 +71,9 @@ Puedes encontrar enlaces a los archivos de este proyecto (dashboard y tablas de 
 ## Conclusiones
 <div align="justify">
 A través de gráficos intuitivos y métricas clave, se tiene una visión en tiempo real de cómo los clientes potenciales se convierten en clientes aprobados, desglosando el proceso en sus elementos fundamentales: las visitas de ventas y las aprobaciones.
-
 <br>
-<div align="center"><img src="https://github.com/Cora1218/Data_Analysis_Bright/blob/main/imgs/dashboard.png" width=500></div>
-</br>
+  
+<div align="center"><img src="https://github.com/Cora1218/Data_Analysis_Bright/blob/main/imgs/dashboard.png" width=800 height="500"></div>
 
 1.  Lead Cargados (97,69%):
 El 97,69% de los clientes potenciales cargados indica un alto nivel de interacción y participación de la audiencia con el proceso de generación de leads. Este es un indicador positivo y sugiere una eficaz captación de clientes potenciales.
